@@ -13,7 +13,8 @@
   "files": [
     "Pikeman.js",
     "Pikeman.d.ts",
-    "Pikeman.js.map"
+    "Pikeman.js.map",
+    "Pikeman.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
